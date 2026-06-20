@@ -7,7 +7,8 @@ struct Quad {
 
 vector<Quad> tac;
 
-void generateCode() {
+void generateCode()
+{
 
     for (auto &q : tac) {
 
